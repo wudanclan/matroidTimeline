@@ -142,7 +142,7 @@ input[type="submit"] {
     padding: 0 4%;
     width: 100%;
     box-sizing: border-box;
-    
+    margin: 1vw 0;
 }
 
 .timeline_list_box {
@@ -199,4 +199,13 @@ input[type="submit"] {
 
 .right {
     left: 96vw;
+}
+
+.form_input {
+    border: 1px solid black;
+}
+
+.form_submit {
+    border-radius: 1px;
+    background-color: rgb(229, 226, 226);
 }

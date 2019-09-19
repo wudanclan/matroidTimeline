@@ -1,4 +1,5 @@
 import React from 'react';
+import './timeline.css';
 
 const BoundingBoxDetail = function(props) {
     let {prediction, number} = props;
